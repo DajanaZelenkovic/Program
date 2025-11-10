@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Program
 {
     internal class NewClass
-    {
+    { 
     }
 }
